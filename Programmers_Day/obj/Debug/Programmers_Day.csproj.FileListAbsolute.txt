@@ -6,3 +6,11 @@ D:\Development Plans\Programmers Day 2022\Programmers_Day\Programmers_Day\obj\De
 D:\Development Plans\Programmers Day 2022\Programmers_Day\Programmers_Day\obj\Debug\Programmers_Day.csproj.CoreCompileInputs.cache
 D:\Development Plans\Programmers Day 2022\Programmers_Day\Programmers_Day\obj\Debug\Programmers_Day.exe
 D:\Development Plans\Programmers Day 2022\Programmers_Day\Programmers_Day\obj\Debug\Programmers_Day.pdb
+D:\Development Plans\Programmers Day 2022\Programmers_Day\ProgrammersDayDemo\Programmers_Day\bin\Debug\Programmers_Day.exe.config
+D:\Development Plans\Programmers Day 2022\Programmers_Day\ProgrammersDayDemo\Programmers_Day\bin\Debug\Programmers_Day.exe
+D:\Development Plans\Programmers Day 2022\Programmers_Day\ProgrammersDayDemo\Programmers_Day\bin\Debug\Programmers_Day.pdb
+D:\Development Plans\Programmers Day 2022\Programmers_Day\ProgrammersDayDemo\Programmers_Day\obj\Debug\Programmers_Day.csproj.AssemblyReference.cache
+D:\Development Plans\Programmers Day 2022\Programmers_Day\ProgrammersDayDemo\Programmers_Day\obj\Debug\Programmers_Day.csproj.SuggestedBindingRedirects.cache
+D:\Development Plans\Programmers Day 2022\Programmers_Day\ProgrammersDayDemo\Programmers_Day\obj\Debug\Programmers_Day.csproj.CoreCompileInputs.cache
+D:\Development Plans\Programmers Day 2022\Programmers_Day\ProgrammersDayDemo\Programmers_Day\obj\Debug\Programmers_Day.exe
+D:\Development Plans\Programmers Day 2022\Programmers_Day\ProgrammersDayDemo\Programmers_Day\obj\Debug\Programmers_Day.pdb

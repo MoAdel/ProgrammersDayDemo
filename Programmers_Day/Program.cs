@@ -17,7 +17,7 @@ namespace Programmers_Day
                     Console.WriteLine("Enter a year: ");
                     int year = int.Parse(Console.ReadLine());
 
-                    if (year > 1700 && year < 2700)
+                    if (year >= 1700 && year <= 2700)
                     {
                         Console.WriteLine("Programmers Day of this year at : " + Programmers_Day(year));
                     }
@@ -37,6 +37,7 @@ namespace Programmers_Day
         public static string Programmers_Day(int year)
         {
             int day;
+            string calendar = " by Gregorian calendar";
             if (year < 1918)
             {
                 if ((year % 400 == 0) || (year % 4 == 0 && year % 100 != 0))
@@ -47,6 +48,7 @@ namespace Programmers_Day
                 {
                     day = 13;
                 }
+                calendar = " by Julian calendar";
             }
             else if (year == 1918)
             {
@@ -64,7 +66,7 @@ namespace Programmers_Day
                 }
             }
             string _date = new DateTime(year, month:09, day).ToString("dd.MM.yyyy");
-            return _date;
+            return _date + calendar;
         }
     }
 }
